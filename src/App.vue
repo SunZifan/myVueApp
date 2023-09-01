@@ -7,8 +7,10 @@
 <script>
 
 export default {
-  data:{
-    msg1:''
+  data () {
+    return{
+      msg1:''
+    }
   }
 }
 </script>
